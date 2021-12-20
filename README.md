@@ -19,8 +19,8 @@ The program has the following functions:
 - KeyPad Speed Setting
 - LCD
 
-
-
-
+---
+### Video 
+Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1Jj9pPjrDcCJolud-DjOJNQA-P_LlzhYs/view?usp=sharing)
 https://user-images.githubusercontent.com/90580636/146716566-a080da7d-b3f7-4888-932e-42af1091f775.mp4
 
