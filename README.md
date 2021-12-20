@@ -2,6 +2,11 @@
 In this repository, teach-in programming is experienced on 6DOF serial manipulator using a fabricated panel.
 
 ---
+### Video 
+Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1Jj9pPjrDcCJolud-DjOJNQA-P_LlzhYs/view?usp=sharing)
+<p align="left"><img src="https://user-images.githubusercontent.com/90580636/146718709-e6133856-d19b-4d92-b64f-51cbdda58c30.gif" width="300" height="280" /></p>
+
+---
 ### Teach-in Panel
 Teach-in panel is prototyped for testing. 
 <p align="left"><img src="https://user-images.githubusercontent.com/90580636/146716743-1ff6baf1-b123-459e-9313-7876b5a97c8e.png" width="200" height="280" /></p>
@@ -18,9 +23,3 @@ The program has the following functions:
 - Stop/Continue
 - KeyPad Speed Setting
 - LCD
-
----
-### Video 
-Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1Jj9pPjrDcCJolud-DjOJNQA-P_LlzhYs/view?usp=sharing)
-<p align="left"><img src="https://user-images.githubusercontent.com/90580636/146718709-e6133856-d19b-4d92-b64f-51cbdda58c30.gif" width="300" height="280" /></p>
-
