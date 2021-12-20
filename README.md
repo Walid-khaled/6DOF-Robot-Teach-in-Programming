@@ -1,4 +1,4 @@
-## 6DOF-Robot-Teach-in-Programming
+## Teach-in-Programming-for-6DOF-Robot
 In this repository, teach-in programming is experienced on 6DOF serial manipulator using a fabricated panel. Stepper motors are used for joints and servo motor is used for gripper. The idea is the program records the positions which the are manually set by the user, then it can playback the sequence automatically. For safety, a stop/continue function is implemented. This program can be used in many applications such as industrial production lines. 
 
 Here is a brief for the implementation. Full video is attached [here](https://drive.google.com/file/d/1Jj9pPjrDcCJolud-DjOJNQA-P_LlzhYs/view?usp=sharing).
