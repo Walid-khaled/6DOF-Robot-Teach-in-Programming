@@ -4,9 +4,7 @@ In this repository, teach-in programming is experienced on 6DOF serial manipulat
 ---
 ### Teach-in Panel
 Teach-in panel is prototyped for testing. 
-<img src="https://user-images.githubusercontent.com/90580636/146716743-1ff6baf1-b123-459e-9313-7876b5a97c8e.png" width="200" height="280">
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/90580636/146716743-1ff6baf1-b123-459e-9313-7876b5a97c8e.png" width="200" height="280" /></p>
 
 The program has the following functions:
 - Robot Calibration
